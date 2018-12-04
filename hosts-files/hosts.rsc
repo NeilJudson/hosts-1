@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-10-24
+# Last updated: 2018-12-04
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -34,13 +34,17 @@ add address=185.122.58.249 name=tg-8.googlehosts.org
 add address=103.105.48.234 name=103-105-48-234.googlehosts.org
 add address=103.105.48.234 name=tg-9.googlehosts.org
 add address=23.226.136.24 name=23-226-136-24.googlehosts.org
-add address=23.226.136.132 name=23-226-136-132.googlehosts.org
-add address=23.226.136.132 name=ss-2.googlehosts.org
+add address=23.226.136.24 name=ss-1.googlehosts.org
+add address=107.150.12.229 name=107-150-12-229.googlehosts.org
 add address=104.129.16.244 name=104-129-16-244.googlehosts.org
-add address=104.129.16.244 name=ss-1.googlehosts.org
-add address=155.94.137.77 name=155-94-137-77.googlehosts.org
-add address=155.94.137.77 name=ss-3.googlehosts.org
+add address=23.226.136.132 name=23-226-136-132.googlehosts.org
+add address=104.223.60.17 name=104-223-60-17.googlehosts.org
+add address=104.223.60.17 name=ss-2.googlehosts.org
+add address=66.154.108.62 name=66-154-108-62.googlehosts.org
 add address=23.226.136.216 name=23-226-136-216.googlehosts.org
+add address=23.226.136.216 name=ss-3.googlehosts.org
+add address=155.94.137.77 name=155-94-137-77.googlehosts.org
+add address=185.22.152.42 name=185-22-152-42.googlehosts.org
 # GoogleHosts End
 
 # Akamai Start
@@ -93,16 +97,14 @@ add address=52.94.210.139 name=shm.amazon.co.jp
 # Amazon End
 
 # Android Start
-add address=216.58.215.54 name=a.android.com
-add address=216.58.215.54 name=b.android.com
-add address=216.58.215.54 name=m.android.com
-add address=216.58.215.54 name=connectivitycheck.android.com
-add address=216.58.215.54 name=d.android.com
-add address=216.58.215.54 name=dev.android.com
-add address=216.58.215.54 name=market.android.com
-add address=216.58.215.54 name=r.android.com
+add address=172.217.30.157 name=a.android.com
+add address=172.217.30.157 name=connectivitycheck.android.com
+add address=172.217.30.157 name=d.android.com
+add address=172.217.30.157 name=dev.android.com
+add address=172.217.30.157 name=market.android.com
+add address=172.217.30.157 name=r.android.com
 add address=108.177.127.136 name=android.com
-add address=216.58.204.221 name=www.android.com
+add address=172.217.30.153 name=www.android.com
 add address=216.58.204.174 name=source.android.com
 add address=108.177.127.100 name=developer.android.com
 # Android End
@@ -489,6 +491,10 @@ add address=192.0.66.2 name=threatexchange.fb.com
 add address=157.240.11.18 name=video.xx.fbcdn.net
 # Facebook End
 
+# Fcdm Start
+add address=103.233.83.89 name=www.fcdm.cc
+# Fcdm End
+
 # FlipBoard Start
 add address=52.44.186.59 name=beacon.flipboard.com
 add address=34.201.185.200 name=fbprod.flipboard.com
@@ -525,8 +531,9 @@ add address=176.32.102.212 name=ads.goodreads.com
 # Goodreads End
 
 # Google Apis Start
-add address=172.217.168.202 name=www.googleapis.com
+add address=216.58.204.202 name=www.googleapis.com
 add address=172.217.168.202 name=ajax.googleapis.com
+add address=108.177.127.201 name=fonts.googleapis.com
 add address=172.217.168.202 name=googleapis.com
 add address=172.217.168.202 name=android.googleapis.com
 add address=172.217.168.202 name=appinvite-pa.googleapis.com
@@ -868,7 +875,7 @@ add address=216.58.200.24 name=www.google.com.gh
 add address=216.58.200.24 name=www.google.com.gi
 add address=216.58.200.24 name=www.google.com.gr
 add address=216.58.200.24 name=www.google.com.gt
-add address=172.217.4.163 name=www.google.com.hk
+add address=172.217.30.158 name=www.google.com.hk
 add address=216.58.200.24 name=www.google.com.iq
 add address=216.58.200.24 name=www.google.com.jm
 add address=216.58.200.24 name=www.google.com.jo
@@ -916,7 +923,7 @@ add address=172.217.27.247 name=p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i1-unic
 add address=216.58.200.183 name=p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i2-unicast4.metric.gstatic.com
 add address=216.58.200.195 name=p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-s1-v6exp3-v4.metric.gstatic.com
 add address=108.177.96.161 name=ogs.google.com
-add address=216.58.203.14 name=www.google.com
+add address=172.217.17.36 name=www.google.com
 add address=108.177.103.161 name=id.google.com
 add address=74.125.204.100 name=clients5.google.com
 add address=108.177.127.99 name=apis.google.com
@@ -928,6 +935,8 @@ add address=216.239.38.21 name=environment.google
 add address=172.217.161.182 name=domains.google
 add address=64.15.126.100 name=domains.google.com
 add address=216.58.204.175 name=dns.google.com
+add address=172.217.20.110 name=developers.google.com
+add address=172.217.27.219 name=g.co
 add address=74.125.206.210 name=aboutme.google.com
 add address=74.125.206.210 name=ads.google.com
 add address=74.125.206.210 name=abc.xyz
@@ -980,7 +989,6 @@ add address=74.125.206.210 name=docs6.google.com
 add address=74.125.206.210 name=docs7.google.com
 add address=74.125.206.210 name=docs8.google.com
 add address=74.125.206.210 name=docs9.google.com
-add address=74.125.206.210 name=developers.google.com
 add address=74.125.206.210 name=dl-ssl.google.com
 add address=74.125.206.210 name=cloudssh.developers.google.com
 add address=74.125.206.210 name=codelabs.developers.google.com
@@ -1254,7 +1262,7 @@ add address=216.58.194.223 name=scholar.google.com
 # Google Service:Ncr End
 
 # Google Service:China Hongkong Start
-add address=108.177.120.94 name=accounts.google.com.hk
+add address=172.217.30.184 name=accounts.google.com.hk
 add address=108.177.120.94 name=assistant.google.com.hk
 add address=108.177.120.94 name=books.google.com.hk
 add address=108.177.120.94 name=blogsearch.google.com.hk
@@ -2364,8 +2372,8 @@ add address=216.239.37.1 name=golang-consa.l.google.com
 # Google GoLang End
 
 # Google Service:Google Play Start
-add address=172.217.160.110 name=play.google.com
-add address=74.125.204.100 name=android.clients.google.com
+add address=172.217.30.184 name=play.google.com
+add address=172.217.30.155 name=android.clients.google.com
 add address=108.177.121.201 name=play.googleapis.com
 add address=203.208.39.99 name=alt7-mtalk.google.com
 # Google Service:Google Play End
@@ -2420,6 +2428,8 @@ add address=216.239.38.21 name=polymer-project.org
 add address=216.239.38.21 name=material.io
 add address=216.239.38.21 name=www.autodraw.com
 add address=172.217.4.179 name=tools.android.com
+add address=172.217.4.179 name=b.android.com
+add address=172.217.4.179 name=m.android.com
 # Google:ghs End
 
 # Google:Made the code for girls Start Start
@@ -2590,10 +2600,10 @@ add address=172.217.168.193 name=a-oz-opensocial.googleusercontent.com
 add address=172.217.168.193 name=lh0.googleusercontent.com
 add address=172.217.168.193 name=lh1.googleusercontent.com
 add address=172.217.168.193 name=lh2.googleusercontent.com
-add address=172.217.168.193 name=lh3.googleusercontent.com
-add address=172.217.168.193 name=lh4.googleusercontent.com
-add address=172.217.168.193 name=lh5.googleusercontent.com
-add address=172.217.168.193 name=lh6.googleusercontent.com
+add address=108.177.127.133 name=lh3.googleusercontent.com
+add address=108.177.127.133 name=lh4.googleusercontent.com
+add address=108.177.127.133 name=lh5.googleusercontent.com
+add address=108.177.127.133 name=lh6.googleusercontent.com
 add address=172.217.168.193 name=mail-attachment.googleusercontent.com
 add address=172.217.168.193 name=music-onebox.googleusercontent.com
 add address=172.217.168.193 name=music.googleusercontent.com
@@ -2715,10 +2725,10 @@ add address=108.177.119.132 name=gm1.ggpht.com
 add address=108.177.119.132 name=gm2.ggpht.com
 add address=108.177.119.132 name=gm3.ggpht.com
 add address=108.177.119.132 name=gm4.ggpht.com
-add address=108.177.119.132 name=lh3.ggpht.com
-add address=108.177.119.132 name=lh4.ggpht.com
-add address=108.177.119.132 name=lh5.ggpht.com
-add address=108.177.119.132 name=lh6.ggpht.com
+add address=108.177.127.132 name=lh3.ggpht.com
+add address=108.177.127.132 name=lh4.ggpht.com
+add address=108.177.127.132 name=lh5.ggpht.com
+add address=108.177.127.132 name=lh6.ggpht.com
 add address=108.177.119.132 name=nt0.ggpht.com
 add address=108.177.119.132 name=nt1.ggpht.com
 add address=108.177.119.132 name=nt2.ggpht.com
@@ -3087,6 +3097,7 @@ add address=104.16.120.145 name=api.medium.com
 add address=104.16.120.145 name=cdn-static-1.medium.com
 add address=104.16.120.145 name=cdn-images-1.medium.com
 add address=104.16.120.145 name=cdn-images-2.medium.com
+add address=104.16.121.145 name=glyph.medium.com
 # Medium End
 
 # Nytimes Start
