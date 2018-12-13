@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-12-04
+# Last updated: 2018-12-05
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -28,12 +28,6 @@
 155.94.137.77	155-94-137-77.googlehosts.org
 185.22.152.42	185-22-152-42.googlehosts.org
 23.32.241.9	a248.e.akamai.net
-23.32.241.16	static.ak.instagram.com
-23.55.56.140	images.ak.instagram.com
-23.2.36.161	s.pinimg.com
-104.76.17.41	i.pinimg.com
-23.217.143.151	s-media-cache-ak0.pinimg.com
-23.50.43.222	passets-cdn.pinterest.com
 52.219.0.4	s3-ap-northeast-1.amazonaws.com
 54.231.249.17	s3-ap-southeast-2.amazonaws.com
 52.119.164.121	amazon.co.jp
@@ -206,7 +200,6 @@
 216.58.204.202	www.googleapis.com
 172.217.168.202	ajax.googleapis.com googleapis.com android.googleapis.com appinvite-pa.googleapis.com appinvite-ipv4-pa.googleapis.com redirector-bigcache.googleapis.com bigcache.googleapis.com ct.googleapis.com chart.googleapis.com chart.apis.google.com content.googleapis.com datasaver.googleapis.com device-provisioning.googleapis.com youtube.googleapis.com youtubei.googleapis.com appengine.clients6.google.com bigtableadmin.clients6.google.com clouddebugger.clients6.google.com cloudconfig.clients6.google.com cloudpersonalization-pa.clients6.google.com cloudsupport.clients6.google.com cloudusersettings-pa.clients6.google.com dataflow.clients6.google.com datahub.clients6.google.com firebasestorage.googleapis.com firebasedurablelinks-pa.clients6.google.com firebaserules.clients6.google.com firebasestorage.clients6.google.com gcmcontextualcampaign-pa.clients6.google.com growth-pa.googleapis.com instantmessaging-pa.googleapis.com khms0.googleapis.com khms1.googleapis.com logging.clients6.google.com maps.googleapis.com memcache.clients6.google.com ml.clients6.google.com mts0.googleapis.com mts1.googleapis.com mts2.googleapis.com mts3.googleapis.com mobilecrashreporting.clients6.google.com mobilesdk-pa.clients6.google.com opensourceprojects-pa.googleapis.com photos.googleapis.com plus.googleapis.com reminders-pa.clients6.google.com securetoken.googleapis.com remoting-pa.googleapis.com personalsafety-pa.googleapis.com clientmetrics-pa.googleapis.com music-pa.clients6.google.com
 108.177.127.201	fonts.googleapis.com
-172.217.0.16	unfiltered.news
 216.239.32.67	31061001.googleapis.com 26644787.googleapis.com
 172.217.24.16	storage.googleapis.com
 172.217.4.16	commondatastorage.googleapis.com
@@ -302,6 +295,8 @@
 52.45.94.103	i.instagram.com api.instagram.com
 31.13.76.172	help.instagram.com platform.instagram.com
 66.6.32.22	blog.instagram.com blog.issuu.com times.pixiv.net
+23.55.56.140	images.ak.instagram.com
+23.32.241.16	static.ak.instagram.com
 31.13.87.52	scontent.cdninstagram.com scontent-a-tpe.cdninstagram.com scontent-b-tpe.cdninstagram.com scontent-tpe1-1.cdninstagram.com
 31.13.91.52	scontent-a-ams.cdninstagram.com scontent-b-ams.cdninstagram.com scontent-ams3-1.cdninstagram.com
 31.13.91.172	scontent-a-amt.cdninstagram.com scontent-b-amt.cdninstagram.com scontent-amt2-1.cdninstagram.com
@@ -449,6 +444,10 @@
 52.6.255.21	dev.pinterest.com developers.pinterest.com
 54.149.226.209	post.pinterest.com
 52.5.103.187	trk.pinterest.com
+23.50.43.222	passets-cdn.pinterest.com
+104.76.17.41	i.pinimg.com
+23.2.36.161	s.pinimg.com
+23.217.143.151	s-media-cache-ak0.pinimg.com
 210.129.120.55	www.pixiv.net
 210.129.120.43	touch.pixiv.net goods.pixiv.net embed.pixiv.net
 210.140.131.146	source.pixiv.net
