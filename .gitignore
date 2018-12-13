@@ -1,6 +1,6 @@
 ﻿node_modules/
 output/
-recover/hosts
+recover/
 etc.lnk
 *.url
 Linux系统清理DNS缓存.txt
